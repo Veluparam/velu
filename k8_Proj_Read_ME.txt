@@ -1,4 +1,4 @@
-Java and Jenkins Installation:
+Java and Jenkins Installation:-
 
 1) Update all software packages on Ubuntu server.
 sudo apt-get update
